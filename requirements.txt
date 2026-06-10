@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+python-dotenv==1.0.1
+openai==1.35.0
+mysql-connector-python==8.4.0
+sqlalchemy==2.0.31
+firebase-admin==6.5.0
+pydantic==2.7.4
+httpx==0.27.0
+python-multipart==0.0.9
